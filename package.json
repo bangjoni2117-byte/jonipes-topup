@@ -8,11 +8,12 @@
     "start": "next start -p 3000"
   },
   "dependencies": {
-  "next": "latest",
-  "react": "latest",
-  "react-dom": "latest",
-  "tailwindcss": "3.4.1",
-  "autoprefixer": "10.4.16",
-  "postcss": "8.4.31",
-  "lucide-react": "latest"
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "3.4.1",
+    "autoprefixer": "10.4.16",
+    "postcss": "8.4.31",
+    "lucide-react": "latest"
+  }
 }
